@@ -2,19 +2,20 @@
 # AltNPS-Code
 HTML and CSS for showing support for Alt US National Park Service protest!
 
-## NOTE - Work in Progress
-This will eventually be expanded to include a WordPress plugin!
+## PLEASE NOTE - Work in Progress!
+Currently, the **AltNPS Box** is available for easy inclusion on your web site within an ```<iframe>```. The source for the ```<iframe>``` is hosted here, on Github, from my Github web site.
 
-For the moment, I am just providing the basic CSS and HTML to add it to any website.
+I am in the process of releasing the components on the page so that you can host all elements locally on your own web server, as well as building a WordPress plugin. Please bear with me since I have other projects that require my attention.
+
+Please watch **Watch** this repository for changes and updates!
+
+Thanks!
 
 ##Installation Instructions
 ###On any website:
 
-- Download the code to your local machine.
-- Create a subdirectory under your web server's root directory called AltNPS.
-- Upload the AltNPS-Box.html and style-AltNPS.css files into the AltNPS subdirectory.
-- Add the following line into the ```<head>``` section of the web page(s) you want the box to appear.
-  - ```<link rel='stylesheet' href='style-AltNPS.css' type='text/css' media='all' />```
+Simply place the following code wherever you want the box to display:
 
-
+```<iframe src="https://firecopstation6.github.io/AltUSNPS-box.html" width="260" height="520" style="border: none; scrolling: no;"></iframe>```
+ 
 
