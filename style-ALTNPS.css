@@ -1,0 +1,18 @@
+<style>
+	div.ALTNPS-outer {
+		padding: 10px 10px 10px 10px;
+		width: 280px;
+		border: 0px solid black;
+		background-color: #c46c3a;
+		color: black;
+		font-family: sans-serif;
+		font-size: 18px;
+		text-align: center;
+		box-shadow: 5px 5px 5px #e1aa43;
+	}
+	
+	div.ALTNPS-outer a {
+		color: black;
+		text-decoration: none;
+	}
+</style>
