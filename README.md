@@ -11,9 +11,10 @@ For the moment, I am just providing the basic CSS and HTML to add it to any webs
 ###On any website:
 
 - Download the code to your local machine.
-- Place the 
-- If you have an existing CSS style file:
-  - Simply add the lines from the CSS file (without the ```<style> and </style>``` tags) to yours
+- Create a subdirectory under your web server's root directory called AltNPS.
+- Upload the AltNPS-Box.html and style-AltNPS.css files into the AltNPS subdirectory.
+- Add the following line into the ```<head>``` section of the web page(s) you want the box to appear.
+  - ```<link rel='stylesheet' href='style-AltNPS.css' type='text/css' media='all' />```
 
 
 
