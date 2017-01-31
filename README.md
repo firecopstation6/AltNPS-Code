@@ -1,6 +1,6 @@
 <img src="https://i1.wp.com/jimmetzger.net/wp-content/uploads/2017/01/altnps.png?fit=200,200" align="right">
 # AltNPS-Code
-HTML and CSS for showing support for Alt US National Park Service protest!
+HTML and CSS for showing support for **Alt US National Park Service** protest!
 
 ## PLEASE NOTE - Work in Progress!
 Currently, the **AltNPS Box** is available for easy inclusion on your web site within an ```<iframe>```. The source for the ```<iframe>``` is hosted here, on Github, from my Github web site.
@@ -22,7 +22,9 @@ To place this into a WordPress web site, you can easily add the above ```<iframe
 
 ###On Social Media:
 
-Simply download this graphic
+Simply download this graphic! Do a *right-click... save image as* to your computer and share it **everywhere** with a link to the Alt USNPS Facebook Page (https://www.facebook.com/AltUSNationalParkService/). The image is 256px wide and 460px tall.
+
+<img src="https://raw.githubusercontent.com/firecopstation6/firecopstation6.github.io/master/altusnps-banner-only.png" align="center">
 
 ## Change Log
 
