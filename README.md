@@ -15,9 +15,10 @@ Thanks!
 ###On any website:
 
 Simply place the following code wherever you want the box to display:
-
-```<iframe src="https://firecopstation6.github.io/AltUSNPS-box.html" width="260" height="520" style="border: none; scrolling: no;"></iframe>```
-
+```
+<iframe src="https://firecopstation6.github.io/AltUSNPS-box.html" width="260" height="520" style="border: none; scrolling: no;"></iframe>
+```
+To place this into a WordPress web site, you can easily add the above ```<iframe>``` code into a **text widget**. The width of the sidebar should be **at least 250px**. If you need one that is narrower, raise an issue on this repository. I am taking sidebar width into account with the (coming soon!) WordPress plugin.
 
 ## Change Log
 
